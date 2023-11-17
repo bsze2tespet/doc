@@ -3,7 +3,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   
-  base: "/",
+  base: "/doc",
 
   lang: "en-US",
   title: "School of Business",
